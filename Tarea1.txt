@@ -3,13 +3,13 @@ codigo: 202410017-3744
 
 Metodologías de Desarrollo de Software
 
-Notas de clase:
+    Notas de clase:
 
-Código para iniciar credenciales en un PC externo: 
+        Código para iniciar credenciales en un PC externo: 
 
-1. Eliminar credenciales del PC externo 
-2. Iniciar sesión en GitHub 
-3. Ir al código que se desea clonar 
-4. Hundir el botón verde de “code” copiar URL 
-5. Abrir Visual Studio Code 
-6. Ir a view, command palette, copiar URL, crear carpeta clonada y automáticamente se crear los archivos del GitHub remoto 
+        1. Eliminar credenciales del PC externo 
+        2. Iniciar sesión en GitHub 
+        3. Ir al código que se desea clonar 
+        4. Hundir el botón verde de “code” copiar URL 
+        5. Abrir Visual Studio Code 
+        6. Ir a view, command palette, copiar URL, crear carpeta clonada y automáticamente se crear los archivos del GitHub remoto 
