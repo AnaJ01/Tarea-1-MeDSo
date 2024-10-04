@@ -2,3 +2,5 @@ Ana Sofia Jimenez Zuñiga
 codigo: 202410017-3744
 
 Metodologías de Desarrollo de Software
+
+Notas de clase:
